@@ -1,26 +1,25 @@
-I am currently a Research Fellow at the School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University (NTU), Singapore.
-
-### Google Schol
-[Google Scholar Profile - Wanting Sun](https://scholar.google.com.hk/citations?user=kiaiB_oAAAAJ)
+I am currently a postdoctoral researcher at the Data Science Institute, Shandong University, China.
 
 ### Contact
 - **Email:** wtsun[at]sdu.edu.cn
 
-### Education
+### Experience
 - Shandong University, China  
-  Ph.D. Candidate in Data Science  
-  Sept. 2019 – Dec. 2025  
+  Post-doc. in the Data Science Institute
+  Jul. 2023 –   
   Advisor: Prof. Guanghui Wang [[Homepage]](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)<br>
 
-- Nanyang Technological University (NTU), Singapore  
-  School of Physical and Mathematical Sciences (SPMS)  
-  Visiting Student  
-  Oct. 2023 – Oct. 2025  
-  Advisor: Prof. Kelin Xia [[Homepage]](https://personal.ntu.edu.sg/XIAKELIN/)<br>
+- Central China Normal University, China  
+  Ph.D. in Mathematics 
+  Sept. 2017 – Dec. 2025  
+  Advisor: Prof. Shuchao Li [[Homepage]](https://maths.ccnu.edu.cn/info/1040/20672.htm)<br>
 
-- Shandong University, China  
-  B.Sc. in Mathematics and Applied Mathematics  
-  Sept. 2015 – Jun. 2019
+- University of Waterloo, Canada  
+  School of Physical and Mathematical Sciences (SPMS)  
+  Visiting Student 
+  Mar. 2022 – Mar. 2023  
+  Advisor: Prof. Chris Godil [[Homepage]](https://www.math.uwaterloo.ca/~cgodsil/)<br>
+
   
 ### Research Interests
-Graph Neural Networks, Topological Deep Learning, AI for Science
+Graph and Combinatorics
