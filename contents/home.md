@@ -1,10 +1,10 @@
 I am currently a Research Fellow at the School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University (NTU), Singapore.
 
 ### Google Schol
-[Google Scholar Profile - Longlong Li](https://scholar.google.com.hk/citations?user=kiaiB_oAAAAJ)
+[Google Scholar Profile - Wanting Sun](https://scholar.google.com.hk/citations?user=kiaiB_oAAAAJ)
 
 ### Contact
-- **Email:** longlee[at]mail.sdu.edu.cn
+- **Email:** wtsun[at]sdu.edu.cn
 
 ### Education
 - Shandong University, China  
