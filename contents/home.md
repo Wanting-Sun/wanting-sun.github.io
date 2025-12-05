@@ -18,7 +18,7 @@ I am currently a postdoctoral researcher at the Data Science Institute, Shandong
   Department of Combinatorics and Optimization  
   Visiting Student   
   Mar. 2022 – Mar. 2023   
-  Advisor: Prof. Chris Godil [[Homepage]](https://www.math.uwaterloo.ca/~cgodsil/)<br>
+  Advisor: Prof. Chris Godsil [[Homepage]](https://www.math.uwaterloo.ca/~cgodsil/)<br>
 
   
 ### Research Interests
