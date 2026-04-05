@@ -1,6 +1,6 @@
 #### Published
 -  Yangyang Cheng, Heng Li, <strong>Wanting Sun*</strong>, Guanghui Wang. Transversal Hamilton cycles in digraph collections.
-  Combinatorics, Probability and Computing (2026). [[Paper]](https://doi.org/10.1017/S0963548326100388)
+  Combin. Probab. Comput. (2026). [[Paper]](https://doi.org/10.1017/S0963548326100388)
 
 -  <strong>Wanting Sun</strong>, Guanghui Wang, Lan Wei. Transversal panconnectedness in graph collections.
   Electron. J. Combin. (2025). [[Paper]](https://doi.org/10.37236/13790)
