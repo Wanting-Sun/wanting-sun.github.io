@@ -1,9 +1,10 @@
 ### Talks
 
--	The 11th Cross-Strait Conference on Graph Theory and Combinatorics (Online)  
-  Talk: “K-Core Decomposition Algorithm”,  Aug.19-21, 2021  
- 	
-- Mathematical Foundations of Communication Seminar (Hangzhou, China)  
-  Talk: “Spatially Coupled Codes”, Oct.27-28, 2019
+- The 10th Workshop on Matrix and Spectral Graph Theory, Aug. 2023  
+Talk: Spectral extrema of theta-free graphs
 
+- Algebraic Graph Theory Seminar, University of Waterloo, Jan. 2023  
+Invited talk: Some results on spectral Tur\'{a}n type problem
 
+- Canadian Mathematical Society, Algebraic and Spectral Graph Theory Session, Dec. 2022  
+Invited talk: Perfect Laplacian state transfer in graphs
