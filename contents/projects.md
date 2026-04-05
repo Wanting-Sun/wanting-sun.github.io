@@ -1,10 +1,10 @@
 ### Projects
 
-- National Natural Science Foundation of China, PI  
-  2026 – 2028
+- National Natural Science Foundation of China,  2026 – 2028, PI  
+ 
 
-- Natural Science Foundation of Shandong Province, PI  
-  2025 – 2027
+- Natural Science Foundation of Shandong Province, 2025 – 2027, PI  
+  
     
-- China Postdoctoral Science Foundation, PI  
-  2024 – 2026  
+- China Postdoctoral Science Foundation,  2024 – 2026,  PI  
+ 
