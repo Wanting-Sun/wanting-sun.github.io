@@ -28,7 +28,7 @@ Talk: Transversal structures in graph collections
 Talk: Spectral extrema of theta-free graphs
 
 - Algebraic Graph Theory Seminar, University of Waterloo, Jan. 2023  
-Talk: Some results on spectral Tur\'{a}n type problem
+Talk: Some results on spectral Turan type problem
 
 - Canadian Mathematical Society, Algebraic and Spectral Graph Theory Session, Dec. 2022  
 Talk: Perfect Laplacian state transfer in graphs
