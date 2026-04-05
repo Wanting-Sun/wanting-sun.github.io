@@ -1,7 +1,10 @@
 ### Projects
 
-- Intern, Theory Lab, Huawei Technologies Co., Ltd. (Shenzhen, China)  
-  Jun. 2020 – Jun. 2021
-  
-- High-Performance Graph Algorithms (HPC) Project (Huawei — Shandong University)  
-  Role: Research Contributor  
+- National Natural Science Foundation of China  
+  2026 – 2028
+
+- Natural Science Foundation of Shandong Province  
+  2025 – 2027
+    
+- China Postdoctoral Science Foundation  
+  2024 – 2026  
