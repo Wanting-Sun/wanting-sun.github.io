@@ -1,7 +1,7 @@
 I am currently an Associate Professor at the School of Mathematics, Hefei University of Technology, China. 
 
 ### Contact
-- **Email:** wtsun[at]sdu.edu.cn
+- **Email:** wtsun[at]hfut.edu.cn
 
 ### Experience
 - Hefei University of Technology, China  
