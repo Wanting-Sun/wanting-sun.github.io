@@ -1,12 +1,16 @@
-I am currently a postdoctoral researcher at the Data Science Institute, Shandong University, China.
+I am currently an Associate Professor at the School of Mathematics, Hefei University of Technology, China. 
 
 ### Contact
 - **Email:** wtsun[at]sdu.edu.cn
 
 ### Experience
+- Hefei University of Technology, China  
+  School of Mathematics   
+  Jul. 2026 –  
+  
 - Shandong University, China  
   Post-doc. in the Data Science Institute  
-  Jul. 2023 –   
+  Jul. 2023 – Jun. 2026  
   Advisor: Prof. Guanghui Wang [[Homepage]](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)<br>
 
 - Central China Normal University, China  
